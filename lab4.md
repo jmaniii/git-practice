@@ -1,7 +1,7 @@
 # Lab4_202133569_이정민
 
 
-## Linux
+## Linux 
 
 - **Definition**: An open-source operating system similar to Unix.
 - **Usage**: Commonly used for servers; over 96.4% of the top 1 million web servers run on Linux.
